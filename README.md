@@ -22,7 +22,9 @@
 ## 🔍 About The Project
 
 MediMind is an end-to-end medical chatbot powered by Generative AI that provides accurate medical information based on the data it has been trained on. The chatbot leverages RAG (Retrieval Augmented Generation) to provide factual medical information by combining the power of large language models with retrievable medical knowledge. 🧠💊
+## Interactive Asthetic Display
 
+![Plot](Display.png)
 ## ✨ Features
 
 - 🤖 Intelligent medical chatbot powered by GPT
